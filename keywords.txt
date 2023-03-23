@@ -1,35 +1,20 @@
-chatboten
-whatsapp bot
-bot para whatsapp
-chat bot whatsapp
-mitsuku
-rebot me
-best chatbots
-streamlabs chat bot
-bot do whatsapp
-dialogflow whatsapp
-chatbot para whatsapp
-tay microsoft
-chat bot facebook
-bot ai
-chat bot python
-chat bot wordpress
-bot whatsapp grupo
-bot conversa whatsapp
-bot no whatsapp
-chat bot instagram
-chat bot microsoft
-chat bot anime
-chatbot whatsapp barato
-chat bot whatsapp business
-chatbot conversar
-chatbot whatsapp atendimento
-bot de conversa
-chat bot 18
-chatbots telegram
-chat bot site
-bot online chat
-chatbots google
-chat bot eliza
-chatbot whatsapp pequenas empresas
-chatbot inteligência artificial
+<head>
+<meta name="geo.region" content="BR-ES">
+<meta name="geo.placename" content="Cachoeiro de Itapemirim">
+<meta name="geo.position" content="-20.846705;-41.12022">
+<meta name="ICBM" content="-20.846705, -41.12022">
+<meta name="DC.Title" content="criação de sites instituicionais, criação de lojas virtuais e maketing com google adwords">
+<meta name="DC.Creator" content="C2TI Software">
+<meta name="DC.Subject" content="Softwares, sistemas, aplicativos e criação de sites">
+<meta name="DC.Description" content="Criamos todo o site em até 5 dias. Lojas Virtuais, Sites profissionais responsivos e atraentes a um custo compatível com sua necessidade. Planos personalizados.Conheça agora!">
+<meta name="DC.Publisher" content="C2TI Criação de Sites e Lojas Virtuais">
+<meta name="DC.Contributor" content="C2TI Criação de Sites e Lojas Virtuais">
+<meta name="DC.Date" content="2018-07-18">
+<meta name="DC.Type" content="Web Site">
+<meta name="DC.Format" content="Web Site">
+<link rel="DC.Identifier" href="https://c2ti.com.br">
+<link rel="DC.Source" href="https://c2ti.com.br">
+<meta name="DC.Language" content="PT-BR">
+<meta name="DC.Relation" content="C2TI Criação de Sites e Lojas Virtuais">
+<meta name="DC.Coverage" content="Brasil">
+<meta name="DC.Rights" content="Criação de sites instituicionais, criação de lojas virtuais e maketing com google adwords">
